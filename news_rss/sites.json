@@ -1,0 +1,19 @@
+{
+    "UolNoticias": {
+      "uol_tec": "http://tecnologia.uol.com.br/ultnot/index.xml",
+      "uol_news": "http://rss.uol.com.br/feed/noticias.xml",
+      "uol_econ": "http://rss.uol.com.br/feed/economia.xml"
+    },
+    "ValorEconomico": {
+        "valor_fin": "http://www.valor.com.br/financas/rss",
+        "valor_pol": "http://www.valor.com.br/politica/rss",
+        "valor_bus": "http://www.valor.com.br/empresas/rss",
+        "valor_inter": "http://www.valor.com.br/internacional/rss"
+    },
+    "NewsBTC": {
+      "newsbtc": "https://www.newsbtc.com/feed/"
+    },
+    "BitcoinNews": {
+      "bitcoin_news": "https://news.bitcoin.com/feed/"
+    }
+}
